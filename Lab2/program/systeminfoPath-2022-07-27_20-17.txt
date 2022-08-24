@@ -1,0 +1,56 @@
+
+Host Name:                 Yaroslav
+OS Name:                   Майкрософт Windows 10 Корпоративная LTSC
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Yaroslav
+Registered Organization:   
+Product ID:                00425-00000-00002-AA811
+Original Install Date:     18.01.2021, 09:27:10
+System Boot Time:          16.05.2022, 08:21:07
+System Manufacturer:       Dell Inc.
+System Model:              Inspiron 3576
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~2304 Mhz
+BIOS Version:              Dell Inc. 1.12.1, 06.05.2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             ru;Russian
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+Total Physical Memory:     8 057 MB
+Available Physical Memory: 2 805 MB
+Virtual Memory: Max Size:  10 233 MB
+Virtual Memory: Available: 2 034 MB
+Virtual Memory: In Use:    8 199 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    HOME
+Logon Server:              \\Yaroslav
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4552930
+                           [02]: KB4486153
+                           [03]: KB4486174
+                           [04]: KB4537759
+                           [05]: KB4549947
+                           [06]: KB4551853
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 3165
+                                 Connection Name: Беспроводная сеть
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.150
+                                 [02]: fe80::e0f5:6ebc:7135:79a5
+                                 [03]: fddd:f75c:6d10:0:2816:8bb:2994:4599
+                                 [04]: fddd:f75c:6d10:0:e0f5:6ebc:7135:79a5
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

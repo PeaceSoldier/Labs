@@ -1,0 +1,237 @@
+27.07.2022 20:30 
+Файл lab.log відкрито 
+Оновлений час: 27.07.2022 20:30 
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0        172 K
+Registry                        96 Services                   0     90 604 K
+smss.exe                       364 Services                   0        904 K
+csrss.exe                      568 Services                   0      4 576 K
+wininit.exe                    680 Services                   0      5 140 K
+csrss.exe                      696 Console                    1      5 392 K
+services.exe                   752 Services                   0      8 144 K
+lsass.exe                      760 Services                   0     14 092 K
+svchost.exe                    872 Services                   0      3 276 K
+fontdrvhost.exe                880 Services                   0      2 604 K
+svchost.exe                    940 Services                   0     22 772 K
+WUDFHost.exe                   960 Services                   0     10 528 K
+svchost.exe                    508 Services                   0     13 536 K
+svchost.exe                    548 Services                   0      7 176 K
+winlogon.exe                  1032 Console                    1     10 136 K
+fontdrvhost.exe               1088 Console                    1     11 660 K
+dwm.exe                       1156 Console                    1     99 364 K
+svchost.exe                   1264 Services                   0      6 360 K
+svchost.exe                   1300 Services                   0      5 080 K
+svchost.exe                   1364 Services                   0     12 428 K
+svchost.exe                   1404 Services                   0      5 232 K
+svchost.exe                   1564 Services                   0     10 184 K
+USBSRService.exe              1584 Services                   0      5 484 K
+atiesrxx.exe                  1688 Services                   0      4 860 K
+svchost.exe                   1704 Services                   0      8 820 K
+svchost.exe                   1716 Services                   0     13 376 K
+svchost.exe                   1768 Services                   0      7 252 K
+svchost.exe                   1880 Services                   0      7 052 K
+svchost.exe                   1892 Services                   0     86 360 K
+atieclxx.exe                  1900 Console                    1      9 040 K
+svchost.exe                   1920 Services                   0      4 996 K
+Memory Compression            1964 Services                   0    505 436 K
+svchost.exe                   1988 Services                   0      7 648 K
+igfxCUIService.exe             676 Services                   0      6 904 K
+svchost.exe                   1416 Services                   0      6 512 K
+svchost.exe                   1136 Services                   0      8 716 K
+svchost.exe                   2140 Services                   0     12 292 K
+RtkAudioService64.exe         2248 Services                   0      5 964 K
+svchost.exe                   2288 Services                   0     11 496 K
+svchost.exe                   2348 Services                   0      7 784 K
+svchost.exe                   2376 Services                   0      7 124 K
+svchost.exe                   2396 Services                   0      8 120 K
+svchost.exe                   2404 Services                   0      5 768 K
+svchost.exe                   2416 Services                   0     11 508 K
+svchost.exe                   2560 Services                   0     17 456 K
+svchost.exe                   2616 Services                   0     11 912 K
+svchost.exe                   2652 Services                   0      6 680 K
+svchost.exe                   2704 Services                   0      8 932 K
+svchost.exe                   2712 Services                   0     16 556 K
+svchost.exe                   2820 Services                   0     11 276 K
+svchost.exe                   2884 Services                   0     16 268 K
+svchost.exe                   3020 Services                   0     10 992 K
+spoolsv.exe                   2948 Services                   0     10 852 K
+svchost.exe                   3108 Services                   0      7 256 K
+RAVBg64.exe                   3144 Console                    1      9 596 K
+AdAppMgrSvc.exe               3184 Services                   0     16 768 K
+AGMService.exe                3216 Services                   0      8 540 K
+AGSService.exe                3236 Services                   0     10 952 K
+svchost.exe                   3252 Services                   0      4 676 K
+IntelCpHDCPSvc.exe            3272 Services                   0      5 700 K
+svchost.exe                   3292 Services                   0     11 728 K
+svchost.exe                   3308 Services                   0      5 904 K
+svchost.exe                   3344 Services                   0     39 992 K
+esif_uf.exe                   3400 Services                   0      5 072 K
+EvtEng.exe                    3432 Services                   0     12 032 K
+FNPLicensingService64.exe     3452 Services                   0      8 000 K
+ibtsiva.exe                   3468 Services                   0      3 632 K
+IpOverUsbSvc.exe              3528 Services                   0     11 532 K
+svchost.exe                   3584 Services                   0      7 888 K
+RegSrvc.exe                   3632 Services                   0      7 384 K
+WavesSysSvc64.exe             3680 Services                   0      8 700 K
+svchost.exe                   3704 Services                   0      5 516 K
+sqlwriter.exe                 3712 Services                   0      6 380 K
+svchost.exe                   3728 Services                   0      6 612 K
+ZeroConfigService.exe         3748 Services                   0     14 300 K
+svchost.exe                   3876 Services                   0      8 424 K
+dasHost.exe                   3912 Services                   0     18 444 K
+svchost.exe                   3652 Services                   0      6 392 K
+IntelCpHeciSvc.exe            4156 Services                   0      5 580 K
+unsecapp.exe                  4316 Services                   0      5 776 K
+svchost.exe                   4364 Services                   0     10 952 K
+WmiPrvSE.exe                  4624 Services                   0     50 236 K
+svchost.exe                   4808 Services                   0      7 224 K
+sqlceip.exe                   5092 Services                   0     45 080 K
+sqlservr.exe                  3572 Services                   0     95 476 K
+dptf_helper.exe               5336 Console                    1      3 212 K
+sihost.exe                    5456 Console                    1     25 512 K
+svchost.exe                   5500 Console                    1     28 552 K
+PresentationFontCache.exe     5556 Services                   0     14 056 K
+taskhostw.exe                 5660 Console                    1     19 252 K
+svchost.exe                   5900 Services                   0      6 256 K
+ctfmon.exe                    6032 Console                    1     14 508 K
+schtasks.exe                  2036 Console                    1        876 K
+conhost.exe                   1876 Console                    1        624 K
+explorer.exe                  5632 Console                    1    132 728 K
+ClassicStartMenu.exe          6092 Console                    1      8 380 K
+svchost.exe                   6224 Services                   0      9 108 K
+igfxEM.exe                    6352 Console                    1     19 260 K
+ShellExperienceHost.exe       6500 Console                    1     56 684 K
+RuntimeBroker.exe             6684 Console                    1     24 300 K
+svchost.exe                   6816 Services                   0      9 824 K
+fdlauncher.exe                6908 Services                   0      3 844 K
+fdhost.exe                    7036 Services                   0      4 780 K
+conhost.exe                   7044 Services                   0      4 176 K
+RtkNGUI64.exe                 5408 Console                    1     11 164 K
+svchost.exe                   5112 Services                   0      6 284 K
+RAVBg64.exe                   1192 Console                    1      9 020 K
+WavesSvc64.exe                5236 Console                    1     12 320 K
+USBSafelyRemove.exe           5204 Console                    1     16 668 K
+GoogleCrashHandler.exe        4464 Services                   0        168 K
+GoogleCrashHandler64.exe      5208 Services                   0        120 K
+ssn.exe                       7176 Console                    1     30 000 K
+cppredistx86.exe              7184 Console                    1     11 324 K
+SystemExplorer.exe            7372 Console                    1     41 932 K
+AutodeskDesktopApp.exe        7384 Console                    1     23 352 K
+GenuineService.exe            7412 Console                    1      9 620 K
+SystemExplorerService64.e     7448 Services                   0      6 760 K
+RadeonSettings.exe            7840 Console                    1     14 572 K
+AcWebBrowser.exe              7920 Console                    1     25 848 K
+AcWebBrowser.exe              8052 Console                    1     24 120 K
+AcWebBrowser.exe              8136 Console                    1     32 984 K
+IAStorIcon.exe                7724 Console                    1     33 648 K
+IAStorDataMgrSvc.exe          7764 Services                   0     58 844 K
+SupportAssistAgent.exe        6588 Services                   0     97 260 K
+DDVRulesProcessor.exe         6324 Services                   0     11 240 K
+Dsapi.exe                     6616 Services                   0     49 816 K
+ServiceShell.exe              8160 Services                   0     45 216 K
+svchost.exe                   1984 Services                   0      7 872 K
+jhi_service.exe               2224 Services                   0      4 360 K
+LMS.exe                       5920 Services                   0      9 608 K
+SgrmBroker.exe                4700 Services                   0      5 424 K
+DDVDataCollector.exe          3936 Services                   0     18 632 K
+DDVCollectorSvcApi.exe        1052 Services                   0      6 752 K
+atiw.exe                      6652 Console                    1      8 468 K
+svchost.exe                   4064 Services                   0      7 992 K
+svchost.exe                   2872 Services                   0     11 312 K
+svchost.exe                   7808 Services                   0      7 228 K
+svchost.exe                   7324 Services                   0      6 216 K
+svchost.exe                   5056 Services                   0      9 004 K
+chrome.exe                    5608 Console                    1    272 556 K
+chrome.exe                    2356 Console                    1      6 628 K
+chrome.exe                    4376 Console                    1    293 340 K
+chrome.exe                    4684 Console                    1     49 836 K
+chrome.exe                    1196 Console                    1     16 184 K
+RuntimeBroker.exe             7664 Console                    1      5 036 K
+chrome.exe                    8840 Console                    1     82 264 K
+chrome.exe                    8856 Console                    1     48 532 K
+chrome.exe                    8864 Console                    1     69 824 K
+chrome.exe                    8872 Console                    1     52 064 K
+chrome.exe                    8880 Console                    1     33 244 K
+chrome.exe                    8568 Console                    1     61 272 K
+chrome.exe                    8556 Console                    1     46 768 K
+chrome.exe                    8240 Console                    1     68 668 K
+chrome.exe                    1420 Console                    1    109 608 K
+svchost.exe                   4596 Services                   0      6 544 K
+Telegram.exe                  7736 Console                    1    251 828 K
+chrome.exe                    2084 Console                    1     51 392 K
+chrome.exe                    6284 Console                    1     19 764 K
+svchost.exe                   8536 Services                   0      9 900 K
+rundll32.exe                  2096 Console                    1      7 344 K
+chrome.exe                    5196 Console                    1    247 008 K
+svchost.exe                   2116 Services                   0      8 948 K
+chrome.exe                    5276 Console                    1     75 548 K
+chrome.exe                     552 Console                    1     49 344 K
+chrome.exe                    9724 Console                    1     90 792 K
+chrome.exe                    1712 Console                    1     35 644 K
+chrome.exe                    8408 Console                    1     49 884 K
+chrome.exe                   10116 Console                    1     40 280 K
+ApplicationFrameHost.exe      5272 Console                    1     29 136 K
+chrome.exe                    2300 Console                    1    179 548 K
+chrome.exe                    1648 Console                    1    137 784 K
+chrome.exe                    8748 Console                    1     68 212 K
+chrome.exe                    6940 Console                    1     81 200 K
+chrome.exe                    9224 Console                    1     54 012 K
+chrome.exe                    9672 Console                    1     56 496 K
+chrome.exe                    4704 Console                    1     79 760 K
+chrome.exe                    1200 Console                    1    110 772 K
+WINWORD.EXE                   7816 Console                    1    144 724 K
+svchost.exe                   9316 Console                    1      6 300 K
+Taskmgr.exe                   4964 Console                    1     55 828 K
+chrome.exe                   11004 Console                    1    119 504 K
+SystemSettings.exe            9812 Console                    1     52 808 K
+audiodg.exe                  11352 Services                   0     49 328 K
+svchost.exe                  11172 Services                   0      7 592 K
+svchost.exe                  10716 Services                   0      9 076 K
+svchost.exe                  10872 Services                   0      6 860 K
+chrome.exe                   12008 Console                    1    224 996 K
+chrome.exe                    9236 Console                    1     29 300 K
+chrome.exe                    2576 Console                    1     50 716 K
+cmd.exe                       7584 Console                    1      4 756 K
+conhost.exe                  12068 Console                    1     21 692 K
+chrome.exe                   10972 Console                    1     22 136 K
+WmiApSrv.exe                 11112 Services                   0      7 728 K
+win32calc.exe                 2432 Console                    1     19 644 K
+notepad.exe                   6784 Console                    1     16 184 K
+tasklist.exe                  1312 Console                    1      7 636 K
+WmiPrvSE.exe                  2492 Services                   0      8 568 K
+Файл win32calc.exe успішно завершено 
+Видалення файлів, які мають розширення .TMP, або їх ім’я починається на «temp» в d:\lab2:
+Видалено 0 файл(и)
+Створено архів d:\lab2-zip\2022-05-16_20-30.zip
+Вчорашній архів відсутній
+Архівів старших за 30 днів не знайдено
+Підключення до інтернету присутнє
+IP-адреса не знайдена
+Список комп'ютерів в мережі:
+
+Interface: 192.168.1.150 --- 0x9
+  Internet Address      Physical Address      Type
+  192.168.1.1           b0-48-7a-d9-81-7d     dynamic   
+  192.168.1.12          00-02-44-93-86-3d     dynamic   
+  192.168.1.111         e0-91-f5-4d-53-90     dynamic   
+  192.168.1.147         fc-4b-bc-12-6b-6a     dynamic   
+  192.168.1.246         00-0d-88-41-b7-78     dynamic   
+  192.168.1.250         f8-1a-67-56-16-a4     dynamic   
+  192.168.1.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.2             01-00-5e-00-00-02     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+Не усі IP-адреси з ipon.txt наявні у системі
+log.log занадто великий, 17389 байт
+Caption  FreeSpace     Size          
+C:       27441672192   195518779392  
+D:       224805052416  343852978176  
+E:       337760989184  460186447872  
+F:                                   
+
